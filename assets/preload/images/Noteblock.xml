@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Noteblock.png"><SubTexture name="Noteblock Bump0000" x="2553" y="1002" width="639" height="500" frameX="-326" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0001" x="2553" y="1502" width="638" height="500" frameX="-327" frameY="-43" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0002" x="0" y="0" width="638" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0003" x="638" y="0" width="638" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0004" x="0" y="501" width="638" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0005" x="638" y="501" width="638" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0006" x="1276" y="0" width="638" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0007" x="2553" y="2002" width="638" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0008" x="0" y="2505" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0009" x="639" y="2505" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0010" x="1278" y="2505" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0011" x="1917" y="2505" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0012" x="3192" y="0" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0013" x="3192" y="500" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0014" x="3192" y="1000" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0015" x="0" y="1002" width="639" height="501" frameX="-327" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0016" x="639" y="1002" width="639" height="501" frameX="-327" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0017" x="3192" y="1500" width="639" height="500" frameX="-327" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0018" x="3192" y="2000" width="638" height="500" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0019" x="3192" y="2500" width="638" height="500" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0020" x="1915" y="2004" width="638" height="500" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0021" x="0" y="3005" width="638" height="500" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0022" x="638" y="3005" width="638" height="500" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0023" x="1914" y="0" width="639" height="501" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0024" x="1914" y="501" width="639" height="501" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0025" x="1914" y="1002" width="639" height="501" frameX="-328" frameY="-41" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0026" x="1276" y="3005" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0027" x="1915" y="3005" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0028" x="2554" y="3005" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0029" x="3831" y="0" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0030" x="3831" y="500" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0031" x="3831" y="1000" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0032" x="3831" y="1500" width="639" height="500" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0033" x="0" y="1503" width="639" height="501" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0034" x="639" y="1503" width="639" height="501" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0035" x="1278" y="1503" width="639" height="501" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0036" x="1276" y="501" width="638" height="501" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0037" x="0" y="2004" width="638" height="501" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0038" x="638" y="2004" width="638" height="501" frameX="-328" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0039" x="1276" y="2004" width="639" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0040" x="2553" y="0" width="639" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0041" x="2553" y="501" width="639" height="501" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0042" x="3831" y="2000" width="639" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Noteblock Bump0043" x="3831" y="2500" width="638" height="500" frameX="-327" frameY="-42" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
