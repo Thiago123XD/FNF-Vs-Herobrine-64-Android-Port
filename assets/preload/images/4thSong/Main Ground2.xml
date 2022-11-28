@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Main Ground.png">
+<SubTexture name="Main Ground idle0000" x="4846" y="0" width="2423" height="1084" frameX="0" frameY="0" frameWidth="2423" frameHeight="1084" />
+</TextureAtlas>
