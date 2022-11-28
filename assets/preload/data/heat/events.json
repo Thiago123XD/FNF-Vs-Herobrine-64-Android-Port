@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "Abyss",
+		"player1": "bfE",
+		"player2": "steveE",
+		"player3": null,
+		"events": [
+			[
+				92000,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.01"
+					]
+				]
+			],
+			[
+				92083.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.05"
+					]
+				]
+			],
+			[
+				92166.6666666666,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				92250,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				92333.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"100"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfE",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "abyss"
+	}
+}
