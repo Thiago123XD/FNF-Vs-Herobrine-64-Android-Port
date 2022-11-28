@@ -1,0 +1,53 @@
+{
+	"weekFile": "week__64",
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "overworld",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"steve",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"New World",
+			"steve",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Heat",
+			"NSteve",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Abyss",
+			"steveE",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hardcore",
+			"herobrine",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "week64"
+}
