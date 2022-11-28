@@ -1,0 +1,20 @@
+a = -1;
+function onCreate()
+    makeLuaSprite('Background','Background',0,0)
+    setScrollFactor('Background',0.75,0.75)
+    addLuaSprite('Background')
+    makeLuaSprite('Main Ground','Main Ground',0,0)
+    addLuaSprite('Main Ground')
+    makeAnimatedLuaSprite('Portal','Portal',0,0)
+    addAnimationByPrefix('Portal','Portal','Portal',24,true)
+    addLuaSprite('Portal','Portal',false)
+    scaleObject('Portal', 2,2)
+    objectPlayAnimation('Portal',true)
+    makeAnimatedLuaSprite('Piglins','Piglins',0,0)
+    addAnimationByPrefix('Piglins','Piglins','Piglins idle',12,false)
+    addLuaSprite('Piglins',true)
+    --scaleObject('Portal', 2,2)
+    objectPlayAnimation('Piglins','Piglins',true)
+
+    close(true)
+end
