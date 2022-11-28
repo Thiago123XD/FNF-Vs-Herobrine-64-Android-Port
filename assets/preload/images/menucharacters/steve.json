@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_portal idle",
+	"image": "Menu_portal",
+	"position": [
+		545,
+		190
+	],
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}
