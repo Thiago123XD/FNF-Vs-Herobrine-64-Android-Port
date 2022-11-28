@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steve O.png"><SubTexture name="Steve O Idle0000" x="0" y="0" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Idle0001" x="666" y="0" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Idle0002" x="1332" y="0" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Idle0003" x="1998" y="0" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Idle0004" x="0" y="854" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Idle0005" x="666" y="854" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Down0000" x="1332" y="854" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Down0001" x="1998" y="854" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Down0002" x="0" y="1708" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Down0003" x="666" y="1708" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Left0000" x="1332" y="1708" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Left0001" x="1998" y="1708" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Left0002" x="0" y="2562" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Left0003" x="666" y="2562" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Left0004" x="1332" y="2562" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Left0005" x="1998" y="2562" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Right0000" x="0" y="3416" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Right0001" x="666" y="3416" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Right0002" x="1332" y="3416" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Right0003" x="1998" y="3416" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Right0004" x="0" y="4270" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Up0000" x="666" y="4270" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Up0001" x="1332" y="4270" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Up0002" x="1998" y="4270" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Up0003" x="0" y="5124" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+<SubTexture name="Steve O Up0004" x="666" y="5124" width="666" height="854" frameX="0" frameY="0" frameWidth="666" frameHeight="854" />
+</TextureAtlas>

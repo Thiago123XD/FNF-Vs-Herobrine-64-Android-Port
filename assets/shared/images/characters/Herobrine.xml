@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Herobrine.png"><SubTexture name="Herobrine Idle0000" x="0" y="0" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Idle0001" x="666" y="0" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Idle0002" x="1332" y="0" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Idle0003" x="1998" y="0" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Idle0004" x="0" y="904" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Idle0005" x="666" y="904" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Down0000" x="1332" y="904" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Down0001" x="1998" y="904" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Down0002" x="0" y="1808" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Left0000" x="666" y="1808" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Left0001" x="1332" y="1808" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Left0002" x="1998" y="1808" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Right0000" x="0" y="2712" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Right0001" x="666" y="2712" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Right0002" x="1332" y="2712" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Right0003" x="1998" y="2712" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Up0000" x="0" y="3616" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Up0001" x="666" y="3616" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+<SubTexture name="Herobrine Up0002" x="1332" y="3616" width="666" height="904" frameX="0" frameY="0" frameWidth="666" frameHeight="904" />
+</TextureAtlas>
