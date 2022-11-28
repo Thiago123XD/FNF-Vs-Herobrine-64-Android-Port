@@ -8,18 +8,18 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF O Idle",
+			"name": "BF H Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				3
+				-3,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF O leftNote",
+			"name": "BF H left0",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF O downNote",
+			"name": "BF H down0",
 			"indices": []
 		},
 		{
@@ -41,67 +41,67 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF O upNote",
+			"name": "BF H up0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				-1
+				-3,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF O rightNote",
+			"name": "BF H right0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-1,
-				-1
+				-3,
+				0
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BF O leftMiss",
+			"name": "BF H leftMiss",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-3,
-				-1
+				0
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "BF O downMiss",
+			"name": "BF H downMiss",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-3,
-				-1
+				0
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "BF O upMiss",
+			"name": "BF H upMiss",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				-1
+				-3,
+				0
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "BF O rightMiss",
+			"name": "BF H rightMiss",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BF H",
 	"position": [
 		0,
 		350
